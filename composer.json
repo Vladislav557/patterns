@@ -1,0 +1,15 @@
+{
+    "name": "cisce/patterns",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/Patterns/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladislav Kiselev",
+            "email": "trololo557@gmail.com"
+        }
+    ],
+    "require": {}
+}
